@@ -10,7 +10,14 @@
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-preset-env": "^1.7.0"
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-less": "^3.5.0",
+    "gulp-print": "^5.0.0",
+    "less": "^2.7.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
